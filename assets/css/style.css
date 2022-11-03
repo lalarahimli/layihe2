@@ -1,0 +1,92 @@
+body{
+    margin-top: 30%;
+    margin: 155px;
+}
+ul{
+    padding: 0;
+}
+.container{
+    border: 1px solid #c4c4c4;
+    border-radius: 10px;
+    width: 355px;
+    margin: auto;
+    min-height: 250px;
+}
+.one{
+    background-color: yellow;
+    width: 355px;
+    height: 20px;
+    border-radius: 9px 9px 0 0;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
+.two{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.three{
+    margin-left: 100px;
+    margin-bottom: 30px;
+    border: 1px solid #c4c4c4;
+    border-radius: 20px;
+    height: 30px;
+    width: 165px;
+   
+}
+h1{
+    font-size: 35px;
+    margin: 50px;
+}
+.addBtn{
+    height: 22px;
+    border-radius: 70px;
+    background-color: #9953f1;
+    width: 30%;
+    margin: auto;
+}
+.elave{
+    margin-left: 95px;
+   border: 1px solid;
+   width: 175px;
+   border-radius: 5px;
+}
+.lali{
+margin-left: 152px;
+margin-right: 13%;
+}
+.humay{
+    display: none;
+    margin-left: 152px;
+    margin-right: 13%;
+}
+.plas{
+    background-color: #9953f1;
+    border-radius: 70px;
+}
+ul{
+    list-style: none;
+}
+.close{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid #858282;
+}
+ul li {
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    box-shadow:  1px 1px 5px gold;
+}
+.close{
+    margin-top: 8%;
+
+}
+.close:hover{
+    background-color: #9953f1;
+}
+.lali:hover{
+    background-color: grey;
+}
